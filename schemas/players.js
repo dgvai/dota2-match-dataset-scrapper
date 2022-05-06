@@ -1,4 +1,4 @@
-[{
+players = [{
     'match_id': 6546748428,
     'player_slot': 0,
     'ability_targets': {
